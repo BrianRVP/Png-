@@ -1,8 +1,8 @@
 {
-	"description": "<p>Scrapes:<p>* 1337x<p>* Internet Archive<p>* YTS<p>* EZTV<p>* i.mjh.nz<p>* Apsattv<p>(Uninstall vuePRO to use)",
-	"author": "F0R3V3R50F7 (M3U Parser by iprot)",
+	"description": "<p>Peliculas:<p>* Series<p>* Animes<p>* YTS<p>* IPTV<p>* Caricaturas<p>*",
+	"author": "BFlix®TV (M3U Parser by B.Vega)",
 	"homepage": "http://github.com/lprot/movian-plugin-streamian",
-	"title": "BFlix",
+	"title": "BFlix®TV",
 	"synopsis": "One stop for TV Shows & Movies with Personal Library & Subtitle Plugin Support.",
 	"version": "2.9",
         "file": "streamian.js",
@@ -10,5 +10,5 @@
 	"type": "ecmascript",
 	"id": "streamian",
 	"icon": "logo.png",
-	"category": "video"
+	"category": "tv"
 }
